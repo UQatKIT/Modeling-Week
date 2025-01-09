@@ -1,5 +1,7 @@
 # MathSEE Modeling-Week
 
+Welcome to the MathSEE Modeling Week. The material presented here has been developed as part of the [2024 version](https://www.mathsee.kit.edu/1341.php) of the Modeling week.
+
 This work is licensed under [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ## Introduction 
